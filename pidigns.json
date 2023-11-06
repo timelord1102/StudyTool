@@ -1,0 +1,19 @@
+{
+    "Contact Situations": "Situations leading to languages coming into contact",
+    "Borrowing" : "The adoption by one language of linguistic features from another language",
+    "Lexical Borrowing" : "The adoption of words or phrases from one language into another",
+    "Loans/Loanwords" : "Words or phrases adopted from one language into another with little or no modification",
+    "Loan Translations/Calques" : "Words or phrases borrowed from one language into another by literal translation",
+    "Intensity of Contact" : "The degree to which two languages are in contact with each other",
+    "Adstratum Languages" : "Languages that are in contact with each other and are of equal prestige",
+    "Superstratum Languages" : "A higher prestige language that is in contact with a lower prestige language",
+    "Substratum Languages" : "A lower prestige language that is in contact with a higher prestige language",
+    "Native Language Interference" : "The influence of a speaker's native language on the learning and use of a second language",
+    "Second-language Aquisition" : "Learning a second language through exposure to it in a natural setting",
+
+    "Pidgin Languages" : "A simplified language that develops as a means of communication between two or more groups that do not have a language in common",
+    "Prepidgin Jargon" : "A pidgin that is not yet fully developed",
+    "Crystallized Pidgin" : "A pidgin that has developed a grammatical structure",
+    "Prototypical Pidgin" : "Pidigins that emerge abruptly in situations of limited social contact",
+    "Expanded Pidgin" : "A pidgin that is not limited to a certain social setting and has the same level of complexity as a language"
+}

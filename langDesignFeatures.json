@@ -1,0 +1,11 @@
+{
+    "Mode of Communication" : "The way in which a message is transmitted and received",
+    "Semanticity" : "Requirement that all signals in a communication system have a meaning or function",
+    "Pragmatic Function" : "The communicaiton system must serve some useful purpose",
+    "Interchangeability" : "The ability of individuals to both transmit and receive messages",
+    "Cultural Transmission" : "The communication system must be learned via interaction with other users of the system",
+    "Arbitrariness" : "The form of a signal is not directly related to its meaning",
+    "Discreteness" : "The signals in a communication system are made up of smaller, repeatable parts",
+    "Displacement" : "The ability to communicate about things that are not present in space or time",
+    "Productivity" : "The ability to create and understand new messages"
+}
