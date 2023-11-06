@@ -1,8 +1,8 @@
 # StudyTool
 A simple tool I made to help me study my definition heavy linguistic class
 
-Requires Python 3.8 or above <br>
-All packages should be included with Python
+<p> Requires Python 3.8 or above <br>
+All packages should be included with Python </p>
 
 # Usage
 - Run the file
